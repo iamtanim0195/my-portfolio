@@ -14,7 +14,7 @@ const MenuDropdown = () => {
       <NavLink
         to="/"
         className={({ isActive, isPending }) =>
-          isPending ? "pending" : isActive ? "text-pink-600 w-fit  text-3xl " : "text-3xl "
+          isPending ? "pending" : isActive ? "text-pink-600  text-3xl " : "text-3xl "
         }
       >
         <CiUser />

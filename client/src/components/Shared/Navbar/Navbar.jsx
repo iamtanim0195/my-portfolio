@@ -1,6 +1,5 @@
 import { Link } from 'react-router-dom'
 import Container from '../Container'
-import logoImg from '../../../assets/images/logo.png'
 import MenuDropdown from './MenuDropdown'
 
 const Navbar = () => {
