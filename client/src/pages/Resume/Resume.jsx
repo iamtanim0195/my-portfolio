@@ -7,6 +7,7 @@ const Resume = () => {
                     <h3 className="text-lg leading-6 font-medium text-white">
                         <span className="text-pink-600">R</span>ESUME
                     </h3>
+                    <p><button className="btn btn-ghost">Download Resume</button> </p>
                 </div>
                 <div className="border-t border-gray-200 px-4 py-5 sm:p-0">
                     <dl className="sm:divide-y sm:divide-gray-200">
