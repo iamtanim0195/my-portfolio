@@ -3,7 +3,7 @@ import { SiTailwindcss,SiExpress,SiMongodb,SiFirebase  } from "react-icons/si";
 
 const About = () => {
     return (
-        <div className="bg-slate-950 mt-3 rounded-lg">
+        <div id="about" className="bg-slate-950 mt-3 rounded-lg">
             <div className="p-5">
                 <h1 className="pb-3 font-bold border-stone-700 border-b-[1px]"><span className="text-pink-600">A</span>BOUT ME</h1>
             </div>
